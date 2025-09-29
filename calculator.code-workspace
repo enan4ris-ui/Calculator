@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"name": "calculator",
+		"path": "."
+	},
+	{
+		"name": "nosifer",
+		"path": "../javascript/javas/calculator/nosifer"
+	}
+],
+  "settings": {}
+}
